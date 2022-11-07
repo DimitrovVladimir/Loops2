@@ -1,0 +1,15 @@
+C:\Users\Admin\source\QualityAssurance\DNA-Sequences\bin\Debug\net6.0\DNA-Sequences.exe
+C:\Users\Admin\source\QualityAssurance\DNA-Sequences\bin\Debug\net6.0\DNA-Sequences.deps.json
+C:\Users\Admin\source\QualityAssurance\DNA-Sequences\bin\Debug\net6.0\DNA-Sequences.runtimeconfig.json
+C:\Users\Admin\source\QualityAssurance\DNA-Sequences\bin\Debug\net6.0\DNA-Sequences.dll
+C:\Users\Admin\source\QualityAssurance\DNA-Sequences\bin\Debug\net6.0\DNA-Sequences.pdb
+C:\Users\Admin\source\QualityAssurance\DNA-Sequences\obj\Debug\net6.0\DNA-Sequences.csproj.AssemblyReference.cache
+C:\Users\Admin\source\QualityAssurance\DNA-Sequences\obj\Debug\net6.0\DNA-Sequences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\QualityAssurance\DNA-Sequences\obj\Debug\net6.0\DNA-Sequences.AssemblyInfoInputs.cache
+C:\Users\Admin\source\QualityAssurance\DNA-Sequences\obj\Debug\net6.0\DNA-Sequences.AssemblyInfo.cs
+C:\Users\Admin\source\QualityAssurance\DNA-Sequences\obj\Debug\net6.0\DNA-Sequences.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\QualityAssurance\DNA-Sequences\obj\Debug\net6.0\DNA-Sequences.dll
+C:\Users\Admin\source\QualityAssurance\DNA-Sequences\obj\Debug\net6.0\refint\DNA-Sequences.dll
+C:\Users\Admin\source\QualityAssurance\DNA-Sequences\obj\Debug\net6.0\DNA-Sequences.pdb
+C:\Users\Admin\source\QualityAssurance\DNA-Sequences\obj\Debug\net6.0\DNA-Sequences.genruntimeconfig.cache
+C:\Users\Admin\source\QualityAssurance\DNA-Sequences\obj\Debug\net6.0\ref\DNA-Sequences.dll

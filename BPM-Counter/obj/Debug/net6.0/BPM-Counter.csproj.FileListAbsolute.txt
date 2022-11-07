@@ -1,0 +1,15 @@
+C:\Users\Admin\source\QualityAssurance\BPM-Counter\bin\Debug\net6.0\BPM-Counter.exe
+C:\Users\Admin\source\QualityAssurance\BPM-Counter\bin\Debug\net6.0\BPM-Counter.deps.json
+C:\Users\Admin\source\QualityAssurance\BPM-Counter\bin\Debug\net6.0\BPM-Counter.runtimeconfig.json
+C:\Users\Admin\source\QualityAssurance\BPM-Counter\bin\Debug\net6.0\BPM-Counter.dll
+C:\Users\Admin\source\QualityAssurance\BPM-Counter\bin\Debug\net6.0\BPM-Counter.pdb
+C:\Users\Admin\source\QualityAssurance\BPM-Counter\obj\Debug\net6.0\BPM-Counter.csproj.AssemblyReference.cache
+C:\Users\Admin\source\QualityAssurance\BPM-Counter\obj\Debug\net6.0\BPM-Counter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\QualityAssurance\BPM-Counter\obj\Debug\net6.0\BPM-Counter.AssemblyInfoInputs.cache
+C:\Users\Admin\source\QualityAssurance\BPM-Counter\obj\Debug\net6.0\BPM-Counter.AssemblyInfo.cs
+C:\Users\Admin\source\QualityAssurance\BPM-Counter\obj\Debug\net6.0\BPM-Counter.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\QualityAssurance\BPM-Counter\obj\Debug\net6.0\BPM-Counter.dll
+C:\Users\Admin\source\QualityAssurance\BPM-Counter\obj\Debug\net6.0\refint\BPM-Counter.dll
+C:\Users\Admin\source\QualityAssurance\BPM-Counter\obj\Debug\net6.0\BPM-Counter.pdb
+C:\Users\Admin\source\QualityAssurance\BPM-Counter\obj\Debug\net6.0\BPM-Counter.genruntimeconfig.cache
+C:\Users\Admin\source\QualityAssurance\BPM-Counter\obj\Debug\net6.0\ref\BPM-Counter.dll
